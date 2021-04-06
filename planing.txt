@@ -2,6 +2,7 @@ belajar project html
 belajar project css
 belajar project javascript
 *framework react (frontend)
-*nodejs (backend)
+*framework anggular (frontend)
+*nodejs (backend)+ express.js
 *tensorflow (mechine learning)
 *belajar data analyst
