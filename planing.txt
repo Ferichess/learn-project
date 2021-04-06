@@ -1,0 +1,6 @@
+belajar project html
+belajar project css
+belajar project javascript
+*framework react (frontend)
+*nodejs (backend)
+*tensorflow (mechine learning)
