@@ -4,3 +4,4 @@ belajar project javascript
 *framework react (frontend)
 *nodejs (backend)
 *tensorflow (mechine learning)
+*belajar data analyst
